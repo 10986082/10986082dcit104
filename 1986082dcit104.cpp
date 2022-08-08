@@ -1,3 +1,4 @@
+//I did it by myself
 # include<iostream>
 using namespace std;
 void AvgOfPrimeNum(){
